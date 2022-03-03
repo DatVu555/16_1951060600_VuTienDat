@@ -1,16 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T08:28:16.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.104 Safari/537.36" etag="e-ILFNu2jpSbX9Z_sAS_" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T08:37:57.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.104 Safari/537.36" etag="ytIF5GxpyWRkLTdGmwJ5" version="16.6.5" type="github">
   <diagram id="18GxjoZ2o8bzVbKozcRF" name="Page-1">
-    <mxGraphModel dx="1888" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2926" dy="2244" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L-7XdOGWxHxovcnAPLZ8-1" value="Tạo khuyến mãi" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="536.25" y="-100" width="130" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="L-7XdOGWxHxovcnAPLZ8-3" value="Cửa hàng" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="110" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="L-7XdOGWxHxovcnAPLZ8-7" value="1&lt;br&gt;" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="L-7XdOGWxHxovcnAPLZ8-3" edge="1">
+        <mxCell id="L-7XdOGWxHxovcnAPLZ8-7" value="1&lt;br&gt;" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="L-7XdOGWxHxovcnAPLZ8-3" target="L-7XdOGWxHxovcnAPLZ8-1" edge="1">
           <mxGeometry x="-0.8491" y="-6" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="110" as="sourcePoint" />
-            <mxPoint x="536.25" y="-60" as="targetPoint" />
+            <mxPoint x="220" y="60" as="targetPoint" />
             <Array as="points">
               <mxPoint x="125" y="-60" />
             </Array>
@@ -25,9 +28,9 @@
         <mxCell id="L-7XdOGWxHxovcnAPLZ8-8" value="Khuyến mãi&lt;br&gt;" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="115" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="L-7XdOGWxHxovcnAPLZ8-9" value="M" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="L-7XdOGWxHxovcnAPLZ8-8" edge="1">
+        <mxCell id="L-7XdOGWxHxovcnAPLZ8-9" value="M" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="L-7XdOGWxHxovcnAPLZ8-1" target="L-7XdOGWxHxovcnAPLZ8-8" edge="1">
           <mxGeometry x="0.9167" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="666.25" y="-60" as="sourcePoint" />
+            <mxPoint x="520" y="200" as="sourcePoint" />
             <mxPoint x="570" y="150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1055" y="-60" />
